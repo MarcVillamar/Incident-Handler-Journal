@@ -27,7 +27,7 @@ In this lab, I have included six incident response cases based on labs. These in
 
 ### Project Files
 
-The Incident handlers journal below contains all cases as described above.
+The Incident handlers journal below contains all cases on th elink below.
 
 
 [Incident Handlers Journal](https://docs.google.com/document/d/15GZ8FYbw7j9-P9iJ9L3u56auki3Jt1VqsiKGHpuk3BA/edit?resourcekey=0-VMXVT_Ie9ttndeaAoKp_ww)
